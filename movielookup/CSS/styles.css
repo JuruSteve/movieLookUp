@@ -1,0 +1,36 @@
+@media(min-width: 960px){
+    #movies .col-md-3 .well {
+        height: 390px;
+    }
+    #movies .col-md-3 img{
+        height:240px;
+    }
+}
+
+body{
+    background-color:#415178;
+    font-family:'Titillium',serif;
+    color:#080808
+}
+.navbar{
+    background-color:#FFFFFF;
+}
+.navbar-brand:hover{
+    font-size: 19px;
+    color:#080808;
+
+}
+#movies img, #movie img{
+    width: 100%;
+}
+.github {
+    text-decoration: none;
+    color: #fff;
+    
+}
+a:hover{
+    color: #fff;
+}
+footer{
+    margin-top: 250px;
+}
